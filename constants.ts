@@ -61,12 +61,12 @@ export const PORTFOLIO_DATA = {
       footer: {
         logo_text: "Sravan Doniparthi",
         social_links: {
-          linkedin: "https://linkedin.com/in/",
+          linkedin: "https://www.linkedin.com/in/sravan-kumar-10b920269",
           instagram: "https://instagram.com/",
-          github: "https://github.com/"
+          github: "https://github.com/sravanshetty06 "
         },
         contact_info: {
-          email: "yourmail@gmail.com",
+          email: "sravan7276@gmail.com",
           location: "India"
         }
       }

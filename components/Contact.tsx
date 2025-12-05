@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Send, Mail, MapPin, Github, Linkedin, Instagram } from 'lucide-react';
+import { Send, Mail, MapPin, Github, Linkedin} from 'lucide-react';
 import { PORTFOLIO_DATA } from '../constants';
 import Section from './ui/Section';
 
@@ -66,7 +66,7 @@ const Contact: React.FC = () => {
               <div className="flex gap-4">
                 {[
                   { icon: Linkedin, href: footer.social_links.linkedin },
-                  { icon: Instagram, href: footer.social_links.instagram },
+                  
                   { icon: Github, href: footer.social_links.github },
                 ].map((Social, index) => (
                   <a
